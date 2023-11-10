@@ -92,7 +92,11 @@ footer{
 
 .fixed{
     position: fixed;
-    bottom: 115px;
+    bottom: 90px;
     right: 10px;
     text-align: right;
+}
+
+.forms{
+    width: 90%;
 }
