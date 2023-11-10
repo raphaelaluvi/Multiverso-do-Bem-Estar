@@ -50,11 +50,11 @@ section{
 }
 
 p{
-    font-size: 1.2em;
+    font-size: 1.1em;
     text-indent: 25px;
 }
 
-
+z
 h1{
     text-shadow: 2px 2px 4px #607ec9;
 }
@@ -80,4 +80,19 @@ footer{
 .imgmenu{
     width: 50%;
     
+}
+
+.imgforms{
+    width: 10%;
+}
+
+.pfooter{
+    font-size: 1em;
+}
+
+.fixed{
+    position: fixed;
+    bottom: 115px;
+    right: 10px;
+    text-align: right;
 }
