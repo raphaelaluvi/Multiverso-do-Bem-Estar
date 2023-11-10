@@ -90,13 +90,9 @@ footer{
     font-size: 1em;
 }
 
-.relative{
-    position: relative;
-}
-
-.absolute{
-    position: absolute;
-    bottom: 8px;
+.fixed{
+    position: fixed;
+    bottom: 90px;
     right: 14px;
     text-align: right;
 }
